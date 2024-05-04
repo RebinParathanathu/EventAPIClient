@@ -1,0 +1,6 @@
+apiUrl=https://fra-ana-api.saas.appdynamics.com/events/query
+apiKey=d74e1a34-5376-44bc-9752-593979d7dbfb
+accountName=performit-nfr_f420e697-9268-4ad4-9309-a1cf4111500b
+query1=SELECT eventTimestamp, CREATED_BY, JOBNAME, ERROR_MSG FROM datatoappd SINCE 3 hours LIMIT 100
+senderEmail=rebin.parathanathu03@gmail.com
+senderPassword=nbex qmmm fzct vmdo
